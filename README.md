@@ -4,4 +4,5 @@ funciones, procedimientos, utilidades, chorradas, etc. En general código escrit
 # Licencia
 
 Todo lo publicado en este repositorio está bajo licencia
+
 <img src="images/by-sa.png" width="200" align = "center">
